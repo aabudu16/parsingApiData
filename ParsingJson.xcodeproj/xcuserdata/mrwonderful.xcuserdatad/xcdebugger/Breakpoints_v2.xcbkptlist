@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParsingJson/ColorViewController.swift"
+            timestampString = "588722135.9601279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchColor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParsingJson.ColorViewController.fetchColor() -&gt; ()"
+                  moduleName = "ParsingJson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrwonderful/Desktop/ParsingJson/ParsingJson/ColorViewController.swift"
+                  timestampString = "588719659.335531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;ParsingJson.ColorWrapper, Swift.Error&gt;) -&gt; () in ParsingJson.ColorViewController.fetchColor() -&gt; ()"
+                  moduleName = "ParsingJson"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrwonderful/Desktop/ParsingJson/ParsingJson/ColorViewController.swift"
+                  timestampString = "588719659.337257"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
